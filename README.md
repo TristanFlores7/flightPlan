@@ -1,4 +1,4 @@
-# flightPlan
+# graphsAndFlightPlans
 This program determines the shortest time and/or lowest cost for a user to get from one destination to another given an airlines flight options.
 The first input file details the available flight options, creating an undirected graph of cities and travel times/costs.
 The format of the first input file is:
