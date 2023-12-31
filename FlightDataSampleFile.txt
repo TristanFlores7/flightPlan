@@ -1,0 +1,9 @@
+8
+Austin|Boston|49|188
+Boston|Dallas|57|105
+Dallas|Seattle|150|49
+Seattle|Austin|45|120
+Boston|Austin|52|210
+Austin|Dallas|160|220
+Boston|New York|102|103
+New York|Paris|50|230

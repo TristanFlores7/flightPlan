@@ -1,0 +1,22 @@
+Flight1: Austin, Dallas (Cost)
+Path1: Austin ---> Boston ---> Dallas. Cost: 100 Time: 300
+Path2: Austin ---> Dallas. Cost: 150 Time: 200
+Path3: Austin ---> Seattle ---> Dallas. Cost: 200 Time: 150
+
+Flight2: Dallas, Austin (Time)
+Path1: Dallas ---> Seattle ---> Austin. Time: 150 Cost: 200
+Path2: Dallas ---> Austin. Time: 200 Cost: 150
+Path3: Dallas ---> Boston ---> Austin. Time: 300 Cost: 100
+
+Flight3: Seattle, Boston (Cost)
+Path1: Seattle ---> Austin ---> Boston. Cost: 100 Time: 300
+Path2: Seattle ---> Austin ---> Dallas ---> Boston. Cost: 250 Time: 400
+
+Flight4: Seattle, Boston (Time)
+Path1: Seattle ---> Dallas ---> Boston. Time: 150 Cost: 200
+Path2: Seattle ---> Dallas ---> Austin ---> Boston. Time: 450 Cost: 350
+
+Flight5: Paris, Seattle (Cost)
+Path1: Paris ---> New York ---> Boston ---> Dallas ---> Seattle. Cost: 350 Time: 450
+Path2: Paris ---> New York ---> Boston ---> Dallas ---> Austin ---> Seattle. Cost: 400 Time: 700
+
